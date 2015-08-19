@@ -1,0 +1,10 @@
+
+Injector:
+  Image:
+    class: WatermarkedImage
+
+
+# I also highly recommend adding the following to your config.yml
+#GDBackend:
+#    default_quality: 100
+
